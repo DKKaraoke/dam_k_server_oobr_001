@@ -11,7 +11,7 @@ packages = [
 ]
 
 [tool.poetry.scripts]
-dam-song-tools = "dam_k_server_oobr_001_cli.cli:main"
+dam-k_server-oobr-001 = "dam_k_server_oobr_001_cli.cli:main"
 
 [tool.poetry.dependencies]
 python = "^3.13"
